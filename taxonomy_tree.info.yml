@@ -1,4 +1,6 @@
 name: Taxonomy Tree
-description: Utility for loading terms in a tree
+description: A simple service that loads the tree of a vocabulary in a multidimensional array, similar to what the menu system does.
 core: 8.x
 type: module
+dependencies:
+  drupal:taxonomy

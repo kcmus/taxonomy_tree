@@ -1,0 +1,14 @@
+{
+  "name": "kcmus/taxonomy_tree",
+  "type": "drupal-custom-module",
+  "description": "A simple service that loads the tree of a vocabulary in a multidimensional array, similar to what the menu system does.",
+  "keywords": ["Drupal", "KCM"],
+  "homepage": "https://github.com/kcmus/taxonomy_tree",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "repositories": {},
+  "extra": { },
+  "require": {
+    "drupal/taxonomy": "^8.0"
+  }
+}
