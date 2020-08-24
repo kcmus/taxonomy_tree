@@ -11,7 +11,7 @@
 
 ## Introduction
 
-A simple service that loads the tree of a vocabulary in a multidimensional array, similar to what the menu system does.
+A simple service which loads the tree of a vocabulary in a multidimensional array, similar to what the menu system does.
 
 This is a fork of [Danny Sipos' Taxonomy Tree](https://github.com/upchuk/taxonomy_tree) module described on the
 [WebOmelette blog post](https://www.webomelette.com/loading-taxonomy-terms-tree-drupal-8).
